@@ -1,0 +1,29 @@
+body{
+    background-image: url("https://t3.ftcdn.net/jpg/03/89/98/68/240_F_389986897_IANPtLU6C0SzHtMtqEd0nTPW5vdl8HxH.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position-x: center;
+}
+h1{
+    text-align: center;
+    color: white;
+}
+p{
+    color: white;
+}
+h3{
+    text-align: center;
+    color: gray;
+}
+dl{
+    color: white;
+}
+li{
+    color: white;
+}
+td{
+    border: 2px solid black;
+}
+table{
+    border: 2px solid black;
+}
